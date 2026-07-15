@@ -1,4 +1,4 @@
-# Alex Rivera — Developer Portfolio
+# Muqthar Ahmed Quraishi J — Developer Portfolio
 
 An interactive, Three.js-powered developer portfolio built with React, TypeScript, Tailwind CSS, and Framer Motion.
 
